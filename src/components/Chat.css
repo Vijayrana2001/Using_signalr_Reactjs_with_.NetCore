@@ -1,0 +1,15 @@
+.text-info {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) !important;
+    margin-right: 10px;
+}
+
+.user-list {
+    float: left;
+    background-color: #313131;
+    color: #5de30cd4;
+    width: 200px;
+    height: 440px;
+    margin-right: px;
+    margin-top: 43px;
+}
